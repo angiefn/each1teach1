@@ -127,3 +127,9 @@ footer p {
     position: static;
     box-sizing: content-box;
     display: block;}
+
+.designs {
+    margin: 30px;
+    align-items: center;
+    justify-content: center; 
+}
